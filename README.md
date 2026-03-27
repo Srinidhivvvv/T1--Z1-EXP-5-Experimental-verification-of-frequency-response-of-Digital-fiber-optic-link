@@ -75,14 +75,13 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 ## TABULATION  
 **Transmission through Digital Link**
-
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+<img width="1200" height="1600" alt="5a" src="https://github.com/user-attachments/assets/18ef3531-a9a1-45d2-b0f7-9677a0cb4517" />
 
 ---
 
 ## MODEL GRAPH
+<img width="1600" height="1200" alt="5b" src="https://github.com/user-attachments/assets/78cde28b-48c7-434e-83af-29598daea770" />
+
 
 *(Insert model graph here)*
 
@@ -90,4 +89,4 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+The frequency response of Digital fiber optic link is verifid successfully.
